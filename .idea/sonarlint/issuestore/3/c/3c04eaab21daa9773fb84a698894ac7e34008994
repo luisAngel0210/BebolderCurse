@@ -1,0 +1,9 @@
+
+
+java:S4276
+"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ôâúÿÿÿÿÿ8’¡¬ö’2J$0640f63e-d0b5-4da4-a42f-ad5744e555ca
+m	java:S106"+Replace this use of System.out by a logger.(…¬Å8“¡¬ö’2J$513fbb5c-e955-402d-9d7b-debad55549e6
+š
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(İé“úÿÿÿÿ8“¡¬ö’2J$ff925429-8a4e-495a-b931-8cc68f31a07c
+m	java:S106"+Replace this use of System.out by a logger.(åÖ±í8”¡¬ö’2J$5b787593-34d4-4349-b774-28cc914de0e1
+m	java:S106"+Replace this use of System.out by a logger.(­×ìì8”¡¬ö’2J$86424ceb-4673-482b-8942-eff0d3bad6bb

@@ -1,0 +1,6 @@
+
+Ž
+java:S1192"FDefine a constant instead of duplicating this literal "Valen" 3 times.(Í±¤¥þÿÿÿÿ8¢æ—ù’2J$ac63a9d7-9353-4fb4-88b4-088ee1f2b4a4
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(¶Ñéïùÿÿÿÿ8¤æ—ù’2J$bdd7ba4c-4d98-465b-abbf-f1a4b11de0a3
+m	java:S106"+Replace this use of System.out by a logger.(ç›”Ÿ8¥æ—ù’2J$07d3b9b0-50e1-4801-b537-aaa537fb0b1f
